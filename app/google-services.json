@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1011268686902",
+    "project_id": "medical-54d04"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011268686902:android:b79187f35f8c16c7",
+        "android_client_info": {
+          "package_name": "com.example.pseaudo.medical"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011268686902-k8f652sv22f6i8ue4lalnkap64rdv8to.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1011268686902-ee2t23enm3e8pquhf9gqbhuqp22r755u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pseaudo.medical",
+            "certificate_hash": "44216cb77e058de94879d58b45e0d6fc08834c83"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhllliR2az7BSy5r38ISzqVTAVOSrMYw4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
